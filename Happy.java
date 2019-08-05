@@ -6,7 +6,6 @@ public class Happy {
 	public void showHappiness() {
 		System.out.println("extremely happy now!");
 		System.out.println("though very hot today");
-		System.out.println("though very hot today");
 	}
 
 	@Test
