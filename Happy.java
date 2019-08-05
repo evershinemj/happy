@@ -2,7 +2,7 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
 /**
- * @version 1.0
+ * @version 2.0
  */
 public class Happy {
 	public void showHappiness() {
