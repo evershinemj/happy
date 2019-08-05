@@ -7,10 +7,6 @@ public class Happy {
 		System.out.println("extremely happy now!");
 		System.out.println("though very hot today");
 		System.out.println("less hot today");
-		System.out.println("feeling great!");
-		System.out.println("feeling nice!");
-		System.out.println("feeling nice!");
-		System.out.println("feeling nice!");
 	}
 
 	@Test
