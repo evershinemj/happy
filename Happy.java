@@ -15,5 +15,7 @@ public class Happy {
         System.out.println("really hot");
         // on branch master
         System.out.println("really sleepy");
+        // on branch master
+        System.out.println("time to go to bed");
     }
 }
