@@ -5,6 +5,8 @@ public class Happy {
         System.out.println("wanna eat ice-cream");
         // on branch foo
         System.out.println("sleepy");
+        // on branch foo
+        System.out.println("late now");
         // on branch master
         System.out.println("hot now");
         // on branch master
