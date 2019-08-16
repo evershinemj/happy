@@ -1,26 +1,10 @@
-// <<<<<<< HEAD
-import org.junit.Test;
-import static org.junit.Assert.*;
-
 public class Happy {
 	public void showHappiness() {
+		// happy
 		System.out.println("extremely happy now!");
-		System.out.println("though very hot today");
-		System.out.println("typhoon today");
 	}
 
-	@Test
-	public void testTrue() {
-		assertTrue(true);
+	public static void main(String[] args) {
+		System.out.println("very happy");
 	}
-// =======
-/*
-public class Happy {
-    public static void main(String[] args) {
-        // edited on Github
-        System.out.println("Very happy");
-        System.out.println("I'm quite happy now");
-    }
-*/
-// >>>>>>> origin/master
 }
