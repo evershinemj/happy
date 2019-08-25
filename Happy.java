@@ -8,6 +8,7 @@ public class Happy {
 		System.out.println("though very hot today");
 		System.out.println("so hot today!");
 		System.out.println("I'm to be cherry-picked.");
+		System.out.println("change after cherry-pick.");
 	}
 
 	@Test
