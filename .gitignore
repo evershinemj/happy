@@ -2,3 +2,4 @@
 !*.java
 !Makefile
 !.gitignore
+!*.md
